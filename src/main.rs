@@ -16,4 +16,6 @@ fn main() {
     // Making another change in this file
 
     // This is a change from ONLY the second branch...
+
+    println!("I'm saying hi from the second branch!");
 }
